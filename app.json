@@ -1,7 +1,7 @@
 {
-  "name": "Ultraviolet App",
-  "description": "Node.js Ultraviolet instance",
-  "repository": "https://github.com/titaniumnetwork-dev/Ultraviolet-App",
-  "logo": "https://raw.githubusercontent.com/titaniumnetwork-dev/Ultraviolet-Static/main/public/uv.png",
-  "keywords": ["tomp", "ultraviolet"]
+  "name": "Canvas Calendar",
+  "description": "Canvas Calendar is a multipurpose tool for managing and planning assingments.",
+  "repository": "https://canvas.com",
+  "logo": "https://www.instructure.com/sites/default/files/image/2021-12/Canvas_logo_single_mark.png",
+  "keywords": ["canvas", "learning"]
 }
