@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "Canvas Calendar",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Canvas Calendar is a multipurpose tool for managing and planning assingments.",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
